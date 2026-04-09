@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Frictionshift",
+  "description": "The strategic relocation of transaction costs and barriers across different stages of the customer journey to maximize extraction while maintaining the perception of low friction. Platforms create \"free\" entry points but impose significant costs at exit or intermediate stages (e.g., free signup with expensive cancellation fees, or low advertised prices with hidden final costs).",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Economic Terminology",
+    "datePublished": "2026-02-17"
+  },
+  "termCode": "D47"
+}

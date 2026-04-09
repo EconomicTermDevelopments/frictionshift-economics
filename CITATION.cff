@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Introducing Frictionshift: A Computational Framework for Platform Economics / Digital Markets"
+authors:
+  - name: "Economic Research Collective"
+version: "1.0.0"
+date-released: "2026-02-17"
+license: MIT
+repository-code: "https://github.com/EconomicTermDevelopments/frictionshift-economics"
+keywords:
+  - economics
+  - frictionshift
+  - platform-economics-digital-markets
+  - computational-framework
+  - emerging-terminology
+abstract: "Frictionshift is defined here as the strategic relocation of transaction costs and barriers across different stages of the customer journey to maximize extraction while maintaining the perception of low friction. Platforms create \"free\" entry points but impose significant costs at exit or intermediate stages (e.g., free signup with expensive cancellation fees, or low advertised prices with hidden final costs)."
